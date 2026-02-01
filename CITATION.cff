@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+type: dataset
+title: "Author-collected iPhone 15 Pro sysdiagnose-derived time-series dataset"
+authors:
+  - family-names: "江"
+    given-names: "雯"
+version: 1.0.0
+date-released: 2026-02-01
+license: CC-BY-4.0
+repository-code: "https://github.com/matoshcczo/iphone15pro-sysdiagnose-timeseries-dataset"
